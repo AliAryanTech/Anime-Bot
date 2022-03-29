@@ -21,12 +21,12 @@
 ## Deploy/Hosting Guide
 
 -   Section Moved to
-    [Chitoge-Guides](https://github/zim-bot/Anime-Bot-Guides/blob/main/README.md)
+    [ZIM-BOT-Guides](https://github/zim-bot/Anime-Bot-Guides/blob/main/README.md)
 
 ##  Features of the ANIME BOT CJECK OUT
 
 -   To view all features, click
-    here➡️[Chitoge_featuresList.md](https://github/zim-bot/Anime-Bot/blob/main/Features.md)
+    here➡️[ZIM-BOT_featuresList.md](https://github/zim-bot/Anime-Bot/blob/main/Features.md)
 
 ##  Contribution
 
