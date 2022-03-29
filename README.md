@@ -1,6 +1,6 @@
 
 
- alt="Anime-Bot" border="0"></a>
+ 
 
 # **Anime-Bot : A WhatsApp BOT WITH PRECIOUS COOL FEATURES**
 
