@@ -26,7 +26,7 @@
 ##  Features of the ANIME BOT CJECK OUT
 
 -   To view all features, click
-    here➡️[ZIM-BOT_featuresList.md](https://github/zim-bot/Anime-Bot/blob/main/Features.md)
+    here➡️[ZIM-BOT_featuresList.md](https://github.com/zim-bot/Anime-Bot/blob/zim-bot/Features.md)
 
 ##  Contribution
 
