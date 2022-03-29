@@ -21,7 +21,7 @@
 ## Deploy/Hosting Guide
 
 -   Section Moved to
-    [ZIM-BOT-Guides](https://github/zim-bot/Anime-Bot-Guides/blob/main/README.md)
+    [ZIM-BOT-Guides](https://github.com/zim-bot/Anime-Bot-Guide)
 
 ##  Features of the ANIME BOT CJECK OUT
 
